@@ -1,0 +1,11 @@
+:root {
+  --primary: #efc551;
+  --primary-text: #ffffff;
+  --third-color: rgba(241, 57, 57, 0.695);
+  --secondary: #1df4ffc0;
+  --fourth-color: #fab512c0;
+  --secondary-text: #fff;
+  --accent: #7b6c77c6;
+  --accent-text: rgba(255, 255, 255, 0.75);
+  --phase-color: #13e151c6;
+}

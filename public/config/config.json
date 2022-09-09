@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x8cb21c10740db497ffcbd3b94a277d892d1a0f3f",
+  "SCAN_LINK": "https://etherscan.io/token/0x8cb21c10740db497ffcbd3b94a277d892d1a0f3f",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "gifrevnft",
+  "SYMBOL": "GRN",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 25000000000000000,
+  "DISPLAY_COST": 0.025,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/gifrevlnfts",
+  "SHOW_BACKGROUND": true
+}
